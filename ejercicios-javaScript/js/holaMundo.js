@@ -1,7 +1,7 @@
 //ejercicio 1//
 console.log("Hola mundo!!")
     //ejercicio 2//
-let nombre = "Diego"
+let nombre = "Kevin Stiven"
 console.log("bienvenido(a), Sr(a) " + nombre)
 
 /*declarar una variable llamada costoProducto con su respectivo valor y agregar 10% por concepto de impuestos y $2000 por domicilio 
